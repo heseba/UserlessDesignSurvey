@@ -4,6 +4,10 @@ This is the online appendix for the following paper submission:
 
 Bakaev, M., Speicher, M., Jagow, J., Heil, S., Gaedke, M.: We Don’t Need No Real Users?! Surveying the Adoption of User-less Automation Tools by UI Design Practitioners. To appear in Proceedings of the 22nd International Conference on Web Engineering, ICWE 2022.
 
+## Survey
+
+For details on the survey conducted, please refer to the [Survey Questions](survey-questions.md) and [Survey Results](survey-results.md).
+
 ## Table of Tools
 
 The following table presents the 61 tools used as data source in our userless design survey. The descriptions provided are quotations or summaries taken from their corresponding references.
