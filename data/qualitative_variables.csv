@@ -1,0 +1,29 @@
+﻿Variables;InformationType;OpenEndedType;TaskCode;Label
+C8474;CVARS;Open Ended - Comment Box;;fbclid
+C6367;FINALQ;Open Ended - Comment Box;;Q1: Please describe in a few short sentences or bullet points your high-level process of creating and/or evaluating design artifacts. (* required)
+C6368;FINALQ;Open Ended - Comment Box;;Q2: Are there any tools or platforms that you use during that process (please list them again, even if you mentioned them above)? *
+C6369;FINALQ;Open Ended - Comment Box;;Q3: What are usual obstacles or limitations you encounter when you want to ensure that a design artifact meets users’ needs as much as possible? *
+C6372;FINALQ;Open Ended - Comment Box;;"Q5: Of the platforms and tools above, which ones do you actually use? Please state the number from the list in Q4 and give some more details, e.g., name of the platform, tool, heuristic, etc.  Examples: [2] Nielsen’s 10 heuristics [8] UserZoom; Usertestin"
+C6373;FINALQ;Open Ended - Comment Box;;Q6: If any, which machine-learning- or AI-based platforms or tools do you use in your process? If you’re not entirely sure if a tool you use is ML/AI-based or not, please state that accordingly.  Example: “tool XY (not sure)”
+C7442_C;FINALQ;Question Additional Comments;;"Q7: Within this list of prototyping tools, please check the ones you already know and/or use (if you check ""use"", please also check ""know""). If you additionally use any specific plug-ins, please list them  - Plug-ins (optional):"
+C6374;FINALQ;Open Ended - Comment Box;;Q8: For the purpose of this research, we understand a user behavior model to be:  A system which can, based on previously learned user behavior but without involving actual users, instantly and automatically produce a visual design/prototype, analysis, or
+C7443_C;FINALQ;Question Additional Comments;;Q9: Generative tools based on UBMs or AI: - Other:
+C7445_C;FINALQ;Question Additional Comments;;Q10: Automated (no users) usability validation/evaluation: - Other:
+C7446_C;FINALQ;Question Additional Comments;;Q11: UI/UX-related metrics/KPIs: - Other:
+C7447_C;FINALQ;Question Additional Comments;;Q12: Design guidelines organization/validation tools: - Other:
+C7448_C;FINALQ;Question Additional Comments;;Q13: GOMS/KLM tools: - Other:
+C7449_C;FINALQ;Question Additional Comments;;Q14: HTML/CSS and accessibility validators: - Other:
+C7450_C;FINALQ;Question Additional Comments;;Q15: Behavior simulation/GUI testing automation: - Other:
+C7451_C;FINALQ;Question Additional Comments;;Q16: Behavior-driven development: - Other:
+C7452_C;FINALQ;Question Additional Comments;;Q17: Model-driven development: - Other:
+C6375;FINALQ;Open Ended - Comment Box;;Q18: In case you use any of the methods mentioned in questions Q9 thru Q17, for which part(s) of your work do you use which method and in which way?
+C6377_O;FINALQ;Others Answers;;Q19: Referring to the tools from questions Q7 thru Q17 you don’t use, what are the reasons? Please check all that apply. * - Other.
+C7454_O;FINALQ;Others Answers;;Q20: What platform(s) do you specialize in? What platform(s) are targeted by the products you work on? Please check all that apply. * - Other:
+C7455;FINALQ;Open Ended - Comment Box;;Q21: What’s your job title? *
+C7456_O;FINALQ;Others Answers;;Q22: Which of the following categories best describes the industry you primarily work in (regardless of your actual position)? * - Other:
+C7457_O;FINALQ;Others Answers;;Q23: What’s your gender? * - diverse:
+C7458;FINALQ;Open Ended - Comment Box;;Q24: What’s your year of birth? *
+C7459;FINALQ;Open Ended - Comment Box;;Q25: How many years of experience do you have in your current profession? *
+C7461;FINALQ;Open Ended - Comment Box;;Q27: What’s your nationality?
+C7462;FINALQ;Open Ended - Comment Box;;Q28: What country do you currently live in?
+C7463;FINALQ;Open Ended - Comment Box;;Open Feedback: Is there anything else you’d like to tell us? 🙂
