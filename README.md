@@ -1,8 +1,8 @@
 # Userless Design - Online Appendix
 
-This is the online appendix for the following paper submission:
+This is the online appendix for the following publication:
 
-Bakaev, M., Speicher, M., Jagow, J., Heil, S., Gaedke, M.: We Don’t Need No Real Users?! Surveying the Adoption of User-less Automation Tools by UI Design Practitioners. To appear in Proceedings of the 22nd International Conference on Web Engineering, ICWE 2022.
+Bakaev, M., Speicher, M., Jagow, J., Heil, S., Gaedke, M. (2022). We Don’t Need No Real Users?! Surveying the Adoption of User-less Automation Tools by UI Design Practitioners. In: Di Noia, T., Ko, IY., Schedl, M., Ardito, C. (eds) Web Engineering. ICWE 2022. Lecture Notes in Computer Science, vol 13362. Springer, Cham. https://doi.org/10.1007/978-3-031-09917-5_28
 
 ## Survey
 
